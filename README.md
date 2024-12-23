@@ -7,7 +7,7 @@
 - 👨‍🎓 Masters in **Data Science** from DePaul University.
 
 - 🔭 I am currently working on predicting transplant survival rates to improve long-term patient outcomes. I am utilizing advanced data analysis and wrangling skills, applying sophisticated statistical modelling, visualisation tools (Matplotlib, Power BI, Tableau) and machine learning techniques to develop predictive models (Linear Regression, Decision Tree and Random Forest) that aim to increase transplant survival rates.
-- 
+
 - 🌱 Interested in **Data Analytics, Generative AI, Machine Learning, Deep Learning, Descriptive & Inferential Statistics, NLP, Time-Series Forecasting and Computer Vision**.
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/Vishwateja1785] -->
