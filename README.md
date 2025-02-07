@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Vishwa
 <!-- <h1 align="center">Hi 👋, I'm Vishwa Teja Reddy Dontireddy</h1> -->
-<h3 align="center">I am a Data Analyst with 2 years of experience in statistical analysis, exploratory data analysis, machine learning, and predictive
+<h3 align="center">I am a Data Analyst with over 3 years of experience in statistical analysis, exploratory data analysis, machine learning, and predictive
 modeling using Python, SQL, SAS and R. Proficient in Power BI and Tableau for data visualization, with a strong ability to derive actionable insights and support data-driven decisions to enhance business processes.
-  <!-- Data Analyst with 2 years of experience in performing statistical analysis, building machine learning models, and extracting actionable insights to drive data-driven decisions that solve business problems and improve business processes. --!>
 </h3>
 <img align="right" alt="Data Analytics" width="400" src="https://static.wixstatic.com/media/c7f13e_eca8b5e5b362419ba44efe48d2b36535~mv2.gif">
 
