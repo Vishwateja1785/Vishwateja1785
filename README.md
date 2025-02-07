@@ -8,7 +8,7 @@ modeling using Python, SQL, SAS and R. Proficient in Power BI and Tableau for da
 
 - 👨‍🎓 Masters in **Data Science** from DePaul University.
 
-- 🔭 I am currently working on predicting transplant survival rates to improve long-term patient outcomes. I am utilizing advanced data analysis and wrangling skills, applying sophisticated statistical modelling, visualisation tools (Matplotlib, Power BI, Tableau) and machine learning techniques to develop predictive models (Linear Regression, Decision Tree and Random Forest) that aim to increase transplant survival rates.
+- 🔭 Currently, I am working as an AI Data Analyst at the AI Applied Consortium, focusing on pedestrian analytics research for municipalities and public entities. I annotate and fine-tune AI models for pedestrian movement analysis, develop web-based applications to improve data accessibility and engage with stakeholders to derive meaningful insights from real-world pedestrian movement patterns.
 
 - 🌱 Interested in **Data Analytics, Generative AI, Machine Learning, Deep Learning, Descriptive & Inferential Statistics, NLP, Time-Series Forecasting and Computer Vision**.
 
